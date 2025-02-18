@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nomard.ru/sitemap.xml
+Sitemap: https://союзком.рф/sitemap.xml
