@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nomard.ru/sitemap.xml
